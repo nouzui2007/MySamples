@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="sample_menu">
+		<item>ButtonSample</item>
+		<item>Intent</item>
+		<item>Intent(Object)</item>
+		<item>CustomDlg</item>
+	</string-array>
+</resources>
